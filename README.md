@@ -1,0 +1,1 @@
+This is the first project on the ODIN project which will ask me to create a website using basic HTML including Elements, tags, boilerplate, lists and links.
